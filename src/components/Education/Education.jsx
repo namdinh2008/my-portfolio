@@ -7,7 +7,7 @@ import { EducationCards } from "./EducationCards";
 
 export const Education = () => {
   return (
-    <section className={styles.container} id="projects">
+    <section className={styles.container} id="education">
       <h2 className={styles.title}>SCHOOLS</h2>
       <div className={styles.projects}>
         {education.map((project, id) => {
