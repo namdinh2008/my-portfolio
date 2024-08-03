@@ -38,8 +38,13 @@
   font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
+.wrapbox {
+  display: flex;
+  justify-content: space-between;
+}
 
 .contactBtn {
+  margin-left: 20px;
   text-decoration: none;
   background-color: var(--color-primary);
   color: var(--color-text);

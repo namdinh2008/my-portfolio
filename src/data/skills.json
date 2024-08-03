@@ -12,15 +12,15 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Laravel",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
+    "title": "SQL",
     "imageSrc": "skills/graphql.png"
   },
   {
-    "title": "MongoDB",
+    "title": "PHP",
     "imageSrc": "skills/mongodb.png"
   },
   {

@@ -1,28 +1,28 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
+    "role": "Front-End Engineer",
+    "organisation": "Flodesk",
     "startDate": "Sept, 2022",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": ["Implement, maintain, and update", "Push the boundaries of web"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
+    "role": "Angular Developer",
+    "organisation": "Saigon Technology",
     "startDate": "Aug, 2021",
     "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "experiences": ["Work directly with clients", "Build UI components"],
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
+    "role": "DevOps Architect",
+    "organisation": "KMS Healthcare",
     "startDate": "Apr, 2020",
     "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Lead the design and implementation",
+      "Design and implement availability"
     ],
     "imageSrc": "history/netflix.png"
   }

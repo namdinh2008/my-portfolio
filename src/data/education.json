@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Aptech",
+      "imageSrc": "education/download.png",
+      "description": "We don't follow technology. Aptech is always at the forefront of technology.",
+      "skills": ["React", "Laravel", "NodeJS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "HANOI COLLEGE OF TECHNOLOGY AND COMMERCE",
+      "imageSrc": "education/download.png",
+      "description": "Solid foundation - International integration - Reaching for the future",
+      "skills": ["Java", "Ruby", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "university of greenwich",
+      "imageSrc": "education/download.png",
+      "description": "We are a diverse community with students from all over the world",
+      "skills": ["React", "Express", "C#"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
