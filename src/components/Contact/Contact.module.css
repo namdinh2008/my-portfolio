@@ -59,6 +59,8 @@
   }
 
   .links {
-    align-items: center;
+    position: relative;
+    left: 50px;
+    align-items: start;
   }
 }

@@ -9,7 +9,7 @@
     },
     {
       "title": "HANOI COLLEGE OF TECHNOLOGY AND COMMERCE",
-      "imageSrc": "education/download.png",
+      "imageSrc": "education/Anh-tong-quan.png",
       "description": "Solid foundation - International integration - Reaching for the future",
       "skills": ["Java", "Ruby", "Node", "Sass"],
       "demo": "https://www.example.com",
@@ -17,7 +17,7 @@
     },
     {
       "title": "university of greenwich",
-      "imageSrc": "education/download.png",
+      "imageSrc": "education/Official_logo_of_Greenwich_Vietnam.png",
       "description": "We are a diverse community with students from all over the world",
       "skills": ["React", "Express", "C#"],
       "demo": "https://www.example.com",

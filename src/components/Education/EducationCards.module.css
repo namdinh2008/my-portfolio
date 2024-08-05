@@ -8,21 +8,34 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  height: 560px;
 }
 
 .image {
   margin-bottom: 26px;
+  height: 156px;
 }
 
 .title {
+  height: 70px;
   font-size: 25px;
   font-weight: 700;
+  overflow: hidden;            /* Hide the overflow */
+  display: -webkit-box;        /* Display as a box with flexbox layout */
+  -webkit-box-orient: vertical; /* Set the box orientation to vertical */
+  -webkit-line-clamp: 2;       /* Number of lines to show before truncating */
+  text-overflow: ellipsis;
 }
 
 .description {
   margin-top: 6px;
   font-size: 25px;
   font-weight: 400;
+  overflow: hidden;            /* Hide the overflow */
+  display: -webkit-box;        /* Display as a box with flexbox layout */
+  -webkit-box-orient: vertical; /* Set the box orientation to vertical */
+  -webkit-line-clamp: 3;       /* Number of lines to show before truncating */
+  text-overflow: ellipsis;
 }
 
 .skills {

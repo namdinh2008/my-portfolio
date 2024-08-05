@@ -40,11 +40,11 @@
 }
 .wrapbox {
   display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
   justify-content: space-between;
 }
-
 .contactBtn {
-  margin-left: 20px;
   text-decoration: none;
   background-color: var(--color-primary);
   color: var(--color-text);
@@ -53,8 +53,15 @@
   font-weight: 600;
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  white-space: nowrap;
+  margin: 5px;
+
 }
 
+.box {
+  position: relative;
+  right: 5px;
+}
 .heroImg {
   width: 50%;
   z-index: 1;

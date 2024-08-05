@@ -36,10 +36,10 @@ export const Navbar = () => {
             <a href="#projects">Projects</a>
           </li>
           <li>
-            <a href="#contact">Contact</a>
+            <a href="#education">Education</a>
           </li>
           <li>
-            <a href="#education">Education</a>
+            <a href="#contact">Contact</a>
           </li>
         </ul>
       </div>

@@ -12,13 +12,15 @@ export const Hero = () => {
           I'm a full-stack developer with 3 years of experience using HTML & CSS, React and
           Java. Reach out if you'd like to learn more!
         </p>
+        <div className={styles.box}>
         <div className={styles.warpbox}>
-          <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-            Contact Me
+            <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+              Contact Me 
+            </a>
+            <a href="mailto:derricrane@gmail.com" className={styles.contactBtn}>
+              Contact Me 
           </a>
-          <a href="mailto:derricrane@gmail.com" className={styles.contactBtn}>
-            Contact Me
-        </a>
+        </div>
         </div>
       </div>
       <img
